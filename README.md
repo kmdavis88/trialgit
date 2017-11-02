@@ -1,2 +1,4 @@
 # trialgit
-learning how to git
+this is my repo for learning how to git
+
+
